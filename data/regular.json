@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Personal",
+    "children": [
+      {
+        "name": "/youtube",
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "name": "/wiki",
+        "url": "https://ru.wikipedia.org/"
+      }
+    ]
+  },
+  {
+    "name": "work",
+    "children": [
+      {
+        "name": "/github/home",
+        "url": "https://github.com/inchestnov/"
+      }
+    ]
+  }
+]
+

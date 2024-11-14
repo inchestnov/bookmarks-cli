@@ -1,0 +1,29 @@
+[
+  {
+    "name": "First",
+    "children": [
+      {
+        "name": "/11",
+        "url": "http://localhost:8181/11"
+      },
+      {
+        "name": "/12",
+        "url": "http://localhost:8182/12"
+      }
+    ]
+  },
+  {
+    "name": "Second",
+    "children": [
+      {
+        "name": "/21",
+        "url": "http://localhost:8281/21"
+      }
+    ]
+  },
+  {
+    "name": "/3",
+    "url": "http://localhost:8380/3"
+  }
+]
+

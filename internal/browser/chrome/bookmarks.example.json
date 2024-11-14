@@ -1,0 +1,19 @@
+{
+  "checksum": "942764d02172e0ac56471532a4f3f57c",
+  "roots": {
+    "other": {
+      "children": [],
+      "date_added": "13377038694022654",
+      "date_last_used": "0",
+      "date_modified": "0",
+      "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+      "id": "2",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Other Bookmarks",
+      "type": "folder"
+    }
+  },
+  "version": 1
+}
